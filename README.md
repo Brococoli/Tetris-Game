@@ -4,6 +4,7 @@
 
 工具
 ----------
+- Python 3.6
 - PyQt5
 - Sublime Text 3
 - [PyQt5学习与交流-鱼C论坛](http://bbs.fishc.com/thread-59816-1-1.html)
