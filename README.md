@@ -56,14 +56,17 @@
 游戏界面
 ---------
 - 游戏初始界面
-</br> 
 ![Alt text](./pic/init1.png)
+
+</br> 
 - 游戏运行界面
-</br> 
 ![Alt text](./pic/game1.png)
-- 游戏暂停界面
+
 </br> 
+- 游戏暂停界面
+
 ![Alt text](./pic/game2.png)
+</br> 
 
 
 遇到的问题
